@@ -1,1 +1,1 @@
-<>Api simples, crud de games incluindo o preço e o nome.</p>
+<p>Api simples, crud de games incluindo o preço e o nome.</p>
